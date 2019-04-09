@@ -41,3 +41,5 @@ export class schoolsController{
       .catch(error => res.status(400).json(error));
   }
 }
+
+/*this is modified*/
